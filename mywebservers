@@ -1,0 +1,10 @@
+
+
+
+---
+
+mywebpackinstallubuntu: apache2
+mywebpackinstallredhat: httpd
+myjavainstallubuntu: openjdk-8-jre       
+myjavainstallredhat: java-1.8.0-openjdk
+
